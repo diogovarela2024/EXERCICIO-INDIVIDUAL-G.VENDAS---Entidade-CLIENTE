@@ -1,0 +1,3 @@
+git add .
+git commit -m "Primeiro commit: Adicionando arquivos iniciais do projeto"
+git push origin master
